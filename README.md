@@ -23,7 +23,7 @@ Here are some ideas to get you started:
 
 - 🔭 I’m currently working on **ERP management system**
 
-- 🌱 I’m currently learning **java, mern**
+- 🌱 I’m currently learning **java, mern, Springboots**
 
 - 💬 Ask me about **react**
 
