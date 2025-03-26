@@ -21,9 +21,9 @@ Here are some ideas to get you started:
 
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=reshmi516" alt="reshmi516" /></a> </p>
 
-- 🔭 I’m currently working on **ERP management system**
+- 🔭 I’m currently working on **Travel Guide web App **
 
-- 🌱 I’m currently learning **java, mern, Springboots**
+- 🌱 I’m currently learning **python,java, mern, Springboots**
 
 - 💬 Ask me about **react**
 
